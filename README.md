@@ -65,15 +65,40 @@ You will then need to apply to the program and select my lab as your preferred o
 
 If you have federal work-study funding available, this can be used to fund your position as an Undergraduate Researcher. The standard salary for these positions in the lab is $11/hour. FWS students are awarded up to $4,000 per academic year. The exact salary and work hours will be determined by the allotment of federal work study. 
 
-FWS positions will be posted on hire-a-niner. Allow for 1-2 months for the hiring process to be complete 
+FWS positions will be posted on hire-a-niner. Allow for 1-2 months for the hiring process to be completed.
 
 &nbsp;
 
 ### Paid Undergraduate Researcher - Lab Funds
 
-We will sometimes 
+We will sometimes have funds available for paid researcher positions in the lab. These positions are reserved for experienced researchers and typically require that you have previously worked in our lab. 
+
+These positions are typically paid $11/hour and require a minimum of 5 hours weekly. Positions will be posted on hire-a-niner. Allow for 1-2 months for the hiring process to be completed.  
+
+&nbsp;
+
+### Independent Study and Capstone Course Credit
+
+As stated on this [UNC Charlotte page](https://provost.charlotte.edu/policies-procedures/academic-policies-and-procedures/independent-study), an independent study is “A method of receiving credit for study or research independent of the assignments of any specific course, but supervised and graded by a faculty member.”
+
+In the Independent Study, you will receive course credit for conducting authentic scientific research in the LaBella Lab. 
+
+This is not a class. There is no set number of positions available each semester. It is dependent on the current size of the lab and availability. 
+
+The number of hours is dependent on the number of course credits. You are expected to work **Credit + (Credit x 2)** number of hours. So if you enroll in 3 credits of Independent Study, you will be expected to work 9 hours per week (3 + 6). 
+
+The research courses students in my lab can enroll in are
+- BINF 3900 – Undergraduate Research (3 Credits) – individual research project in Bioinformatics
+- BINF 4650 – Senior Project (3 Credits)* – individual project with no research component in Bioinformatics
+
+Lower credit number 3900 options may be available. 
+
+You must first get approval from me to enroll in the course and then follow the steps on the [Independent Study website](https://cci.charlotte.edu/independent-study-approval/)
+
+&nbsp;
 
 
+### Undergraduate Research Volunteer 
 
 
 
