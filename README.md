@@ -59,7 +59,19 @@ During the academic year, full-time Scholars can earn up to $2000 per semester, 
 
 You will then need to apply to the program and select my lab as your preferred opportunity. There is no guarantee you will be selected for a OUR Scholar Position. 
 
+&nbsp;
 
+### Paid Undergraduate Researcher - Federal Work Study (FWS)
+
+If you have federal work-study funding available, this can be used to fund your position as an Undergraduate Researcher. The standard salary for these positions in the lab is $11/hour. FWS students are awarded up to $4,000 per academic year. The exact salary and work hours will be determined by the allotment of federal work study. 
+
+FWS positions will be posted on hire-a-niner. Allow for 1-2 months for the hiring process to be complete 
+
+&nbsp;
+
+### Paid Undergraduate Researcher - Lab Funds
+
+We will sometimes 
 
 
 
