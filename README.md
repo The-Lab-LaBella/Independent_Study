@@ -97,8 +97,9 @@ You must first get approval from me to enroll in the course and then follow the 
 
 &nbsp;
 
-
 ### Undergraduate Research Volunteer 
 
+There are also opportunities for undergraduates to volunteer as researchers in the lab. These positions are unpaid. While I strive to ensure that all students are compensated for their work through payment or course credit, there are situations where a volunteer position may suit your needs. 
 
+We would work together to craft a volunteer research experience that suits your individual needs
 
